@@ -1,2 +1,50 @@
 # CPAM2024_Influence_Precipitation_Cubatao_do_Sul
-CPAM2024 - Influence of Precipitation on the Rise of the Cubatao do Sul River Level in SC
+# A Influência da Precipitação na Elevação do Nível do Rio Cubatão do Sul em SC
+# CPAM2024 - Influence of Precipitation on the Rise of the Cubatao do Sul River Level in SC
+
+## Autores / Authors:
+Gilmar Florêncio (1); Juliana Portella Bernardes (1); Alexandre Nuernberg (1); Nícolas Firmano Flores (1); Eduardo
+Conceição (1); Adriano Vitor (2); Mário Francisco Leal de Quadro (2)
+* (1) Pós-graduando. Avenida Mauro Ramos, 950 - Centro, Florianópolis/SC, 88020-300. IFSC; (2) Professor Dr.. Avenida
+Mauro Ramos, 950 - Centro, Florianópolis/SC, 88020-300. IFSC
+
+## RESUMO:
+A água é vital para a humanidade em suas atividades ao longo da história. Avaliar a vazão dos rios é crucial para entender a
+disponibilidade hídrica, impactando aspectos sociais e econômicos. Este estudo investiga como a precipitação afeta o nível
+do Rio Cubatão do Sul, crucial para o abastecimento de água na Região Metropolitana da Grande Florianópolis, SC. Dados
+de cotas de duas estações hidrometeorológicas da ANA (Agência Nacional das Águas) e estações maregráficas da Capitania
+dos Portos de Santa Catarina (Marinha), coletados ao longo de 22 anos (2000-2022), foram utilizados. O foco inicial se deu
+em pontos com inundações abrangentes (cotas ≥ 5m), que representam pouco mais de 100% acima da cota de alerta do rio
+(2,34m), isso resultou em 44 registros, 42 dos quais foram correlacionados com a precipitação de até 7 dias anteriores.
+Comparações com cotas de marés foram feitas. Utilizou-se Python para processar os dados e o produto MERGE/CPTEC
+para extrair o volume de precipitação na bacia hidrográfica de 738 km². Os resultados sugerem aplicabilidade em estudos
+de prevenção de desastres, especialmente em chuvas intensas. Não encontramos correlação direta entre marés e cotas
+elevadas do rio. Registros de cotas muito acima da média, sem dados de precipitação ou durante marés altas, foram
+excluídos. Recomendamos verificações in loco nas estações para avaliar a calibração dos equipamentos em futuras
+pesquisas.
+
+### PALAVRAS-CHAVE: Eventos Extremos; Recursos Hídricos; Planejamento Urbano
+### AGRADECIMENTOS:
+Agradecemos aos professores Mário Francisco Leal de Quadro e Adriano Vitor pelo incentivo, pela orientação e toda
+disponibilidade.
+
+## ABSTRACT:
+Water, a life-sustaining resource, has played a pivotal role in human activities throughout history. Understanding river flow
+rates is paramount to managing water availability, with significant social and economic implications. This study
+investigates the influence of precipitation on water level variations in the Cubatão do Sul River, a crucial water source for
+the Greater Florianópolis Metropolitan Region in SC. Utilizing data spanning 22 years (2000-2022) from two ANA
+(National Water Agency) hydrometric stations and Navy tide gauges, we analyzed water level records. Initially, we focused
+on events with extensive flooding (water levels ≥ 5m), representing over 100% above the river's alert level (2.34m),
+resulting in 44 records. Of these, 42 were correlated with precipitation data up to 7 days prior to the flooding event.
+Comparisons with tide levels were also conducted. Data processing was performed using Python, and the MERGE/CPTEC
+software was employed to extract precipitation volumes within the 738 km² watershed. The findings suggest the
+applicability of our approach in disaster prevention studies, particularly during intense rainfall events. Notably, no direct
+correlation was established between tides and elevated river levels. Records exhibiting water levels significantly above the
+average, lacking precipitation data, or coinciding with high tides were excluded. To enhance future research, we
+recommend on-site equipment calibration checks at the stations.
+
+### KEY-WORDS: Extreme Events; Water resources; Urban planning
+### THANKS:
+We would like to express our sincere gratitude to our professors Mário Francisco Leal de Quadro and Adriano Vitor for
+their encouragement, guidance, and unwavering support throughout this project. Their expertise and dedication have been
+invaluable to our success.
