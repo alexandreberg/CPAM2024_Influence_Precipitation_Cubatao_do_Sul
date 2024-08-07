@@ -5,8 +5,8 @@
 ## Autores / Authors:
 Gilmar Florêncio (1); Juliana Portella Bernardes (1); Alexandre Nuernberg (1); Nícolas Firmano Flores (1); Eduardo
 Conceição (1); Adriano Vitor (2); Mário Francisco Leal de Quadro (2)
-* (1) Pós-graduando. Avenida Mauro Ramos, 950 - Centro, Florianópolis/SC, 88020-300. IFSC; (2) Professor Dr.. Avenida
-Mauro Ramos, 950 - Centro, Florianópolis/SC, 88020-300. IFSC
+* (1) Pós-graduando. Avenida Mauro Ramos, 950 - Centro, Florianópolis/SC, 88020-300. IFSC;
+* (2) Professor Dr.. Avenida Mauro Ramos, 950 - Centro, Florianópolis/SC, 88020-300. IFSC
 
 ## RESUMO:
 A água é vital para a humanidade em suas atividades ao longo da história. Avaliar a vazão dos rios é crucial para entender a
