@@ -75,5 +75,5 @@ invaluable to our success.
 # Geração de histogramas
 *python/4_Histogram_Generation.ipynb*
 
-# [Certificado de participação no CPAM 2024](https://cpam2024.com/php/preview.php?token=6292e039de5c04d20216ce4c1722de06)
+# [Link do Resumo Oficial CPAM 2024](https://cpam2024.com/php/preview.php?token=6292e039de5c04d20216ce4c1722de06)
 
